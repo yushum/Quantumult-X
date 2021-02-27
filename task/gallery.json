@@ -38,7 +38,7 @@
             "addons":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.qxrewrite"
         },
         {
-            "config":"0 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true",
+            "config":"0 7 * * * https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true",
             "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/xmsports.qxrewrite"
         },
         {
