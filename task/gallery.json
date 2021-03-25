@@ -56,6 +56,10 @@
         {
             "config":"5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/66yd.js, tag=66阅读, img-url=https://ae01.alicdn.com/kf/Uaade4566dd3744299956aa883f225386u.jpg, enabled=true",
             "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/66yd.qxrewrite"
+        },
+        {
+            "config":"0 */20 * * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/kkd.js, tag=快看点, img-url=https://qxzy.top/rules/QuantumultX/img/kkd.png, enabled=true",
+            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/kkd.qxrewrite"
         }
     ],
     "description":"Yusum收集自用。"
