@@ -98,8 +98,8 @@
             "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/ranlv.qxrewrite"
         },
         {
-            "config":"0 7 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js, tag=评友圈, img-url=https://qxzy.top/rules/QuantumultX/img/pyq.png, enabled=false",
-            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/pyq.qxrewrite"
+            "config":"15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/xsmm.js, tag=悬赏喵喵, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Yunsaoma.png, enabled=true",
+            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/xsmm.qxrewrite"
         }
     ],
     "description":"Yusum收集自用。"
