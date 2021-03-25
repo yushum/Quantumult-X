@@ -79,7 +79,7 @@
         },
         {
             "config":"0 */5 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, img-url=https://qxzy.top/rules/QuantumultX/img/fqxs.png, enabled=true",
-            "addons":"https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/fqxs.qxrewrite"
+            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/fqxs.qxrewrite"
         }
     ],
     "description":"Yusum收集自用。"
