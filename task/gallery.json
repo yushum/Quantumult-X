@@ -84,6 +84,10 @@
         {
             "config":"15 13 * * * https://raw.githubusercontent.com/age174/-/main/hldsp.js, tag=哈喽短视频, img-url=https://ae01.alicdn.com/kf/Uda8ecbbe50444fe293b538cbccf9d719q.jpg, enabled=true",
             "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/hldsp.qxrewrite"
+        },
+        {
+            "config":"20 12 * * * https://raw.githubusercontent.com/age174/-/main/xyzd.js, tag=幸运赚点, img-url=https://ae01.alicdn.com/kf/U1680ecdfa17544669c71e00400c542e31.jpg, enabled=true",
+            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/xyzd.qxrewrite"
         }
     ],
     "description":"Yusum收集自用。"
