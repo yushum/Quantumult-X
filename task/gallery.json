@@ -80,6 +80,10 @@
         {
             "config":"0 */5 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, img-url=https://qxzy.top/rules/QuantumultX/img/fqxs.png, enabled=true",
             "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/fqxs.qxrewrite"
+        },
+        {
+            "config":"15 13 * * * https://raw.githubusercontent.com/age174/-/main/hldsp.js, tag=哈喽短视频, img-url=https://ae01.alicdn.com/kf/Uda8ecbbe50444fe293b538cbccf9d719q.jpg, enabled=true",
+            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/hldsp.qxrewrite"
         }
     ],
     "description":"Yusum收集自用。"
