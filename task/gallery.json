@@ -88,6 +88,11 @@
         {
             "config":"20 12 * * * https://raw.githubusercontent.com/age174/-/main/xyzd.js, tag=幸运赚点, img-url=https://ae01.alicdn.com/kf/U1680ecdfa17544669c71e00400c542e31.jpg, enabled=true",
             "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/xyzd.qxrewrite"
+        },
+        {
+            "config":"0 */30 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon_old.js, tag=火山视频极速版, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/huoshan.png, enabled=true
+",
+            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/hotsoon.qxrewrite"
         }
     ],
     "description":"Yusum收集自用。"
