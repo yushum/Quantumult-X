@@ -60,6 +60,22 @@
         {
             "config":"0 */20 * * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/kkd.js, tag=快看点, img-url=https://qxzy.top/rules/QuantumultX/img/kkd.png, enabled=true",
             "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/kkd.qxrewrite"
+        },
+        {
+            "config":"*/4 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗小说, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true",
+            "addons":"https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/cookie.conf"
+        },
+        {
+            "config":"*/6 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js, tag=书旗小说极速版, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi-mini.png, enabled=true",
+            "addons":"https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/spcookie.conf"
+        },
+        {
+            "config":"*/4 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗小说-福利转转转-重写引用, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true",
+            "addons":"https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/lottery.conf"
+        },
+        {
+            "config":"*/6 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js, tag=书旗小说极速版-刷时长-重写引用, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi-mini.png, enabled=true",
+            "addons":"https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/everday.conf"
         }
     ],
     "description":"Yusum收集自用。"
