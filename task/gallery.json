@@ -70,11 +70,11 @@
             "addons":"https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/spcookie.conf"
         },
         {
-            "config":"*/4 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗小说-福利转转转-重写引用, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true",
+            "config":"tag=书旗小说-福利转转转-重写引用, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.png, enabled=true",
             "addons":"https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/lottery.conf"
         },
         {
-            "config":"*/6 * * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqireadtime.js, tag=书旗小说极速版-刷时长-重写引用, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi-mini.png, enabled=true",
+            "config":"tag=书旗小说极速版-刷时长-重写引用, img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi-mini.png, enabled=true",
             "addons":"https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/everday.conf"
         }
     ],
