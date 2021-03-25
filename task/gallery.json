@@ -90,8 +90,7 @@
             "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/xyzd.qxrewrite"
         },
         {
-            "config":"0 */30 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon_old.js, tag=火山视频极速版, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/huoshan.png, enabled=true
-",
+            "config":"0 */30 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon_old.js, tag=火山视频极速版, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/huoshan.png, enabled=true",
             "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/hotsoon.qxrewrite"
         },
         {
