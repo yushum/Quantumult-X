@@ -1,2 +1,2 @@
-^https?:\/\/iface(\d)?\.iqiyi\.com\/ url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
+^https?:\/\/iface(\d)?\.iqiyi\.com\/ url script-request-header https://cdn.jsdelivr.net/gh/NobyDa/Script@master/iQIYI-DailyBonus/iQIYI.js
 hostname= ifac*.iqiyi.com
