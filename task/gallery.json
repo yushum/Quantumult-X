@@ -6,15 +6,15 @@
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/iqiyi.qxrewrite"
 		},
 		{
-			"config": "0 1,20 * * * https://cdn.jsdelivr.net/gh/zZPiglet/mini@master/Color/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/didichuxing/didi.png, enabled=true",
+			"config": "0 1,20 * * * https://cdn.jsdelivr.net/gh/zZPiglet/Task@master/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/didichuxing/didi.png, enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/didi.qxrewrite"
 		},
 		{
-			"config": "1 0 * * * https://cdn.jsdelivr.net/gh/zZPiglet/mini@master/Color/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/elem.png,enabled=true",
+			"config": "1 0 * * * https://cdn.jsdelivr.net/gh/zZPiglet/Task@master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/elem.png,enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/eleme.qxrewrite"
 		},
 		{
-			"config": "50 23 * * * https://cdn.jsdelivr.net/gh/zZPiglet/mini@master/Color/elem/elemPea.js, tag=饿了么-遗忘的吃货豆, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/elem.png,enabled=true",
+			"config": "50 23 * * * https://cdn.jsdelivr.net/gh/zZPiglet/Task@master/elem/elemPea.js, tag=饿了么-遗忘的吃货豆, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/elem.png,enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/eleme.qxrewrite"
 		},
 		{
