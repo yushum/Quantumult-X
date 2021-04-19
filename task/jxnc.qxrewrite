@@ -1,2 +1,2 @@
-^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask url script-request-header https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.cookie.js
+^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask url script-request-header https://cdn.jsdelivr.net/gh/whyour/hundun@master/quanx/jx_nc.cookie.js
 hostname = wq.jd.com
