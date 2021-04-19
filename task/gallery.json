@@ -2,48 +2,48 @@
     "name":"Yusum's Task Gallery",
     "task":[
         {
-            "config":"0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺会员签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iQIYI.png, enabled=true",
-            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/iqiyi.qxrewrite"
+            "config":"0 9 * * * https://cdn.jsdelivr.net/gh/NobyDa/Script@master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺会员签到, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/iQIYI.png, enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/iqiyi.qxrewrite"
         },
         {
-            "config":"0 1,20 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi.png, enabled=true",
-            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/didi.qxrewrite"
+            "config":"0 1,20 * * * https://cdn.jsdelivr.net/gh/zZPiglet/Task@master/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/didichuxing/didi.png, enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/didi.qxrewrite"
         },
         {
-            "config":"1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/elem.png,enabled=true",
-            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/eleme.qxrewrite"
+            "config":"1 0 * * * https://cdn.jsdelivr.net/gh/zZPiglet/Task@master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/elem.png,enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/eleme.qxrewrite"
         },
         {
-            "config":"50 23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemPea.js, tag=饿了么-遗忘的吃货豆, img-url=https://raw.githubusercontent.com/Orz-3/task/master/elem.png,enabled=true",
-            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/eleme.qxrewrite"
+            "config":"50 23 * * * https://cdn.jsdelivr.net/gh/zZPiglet/Task@master/elem/elemPea.js, tag=饿了么-遗忘的吃货豆, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/elem.png,enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/eleme.qxrewrite"
         },
         {
-            "config":"5 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png,enabled=true",
-            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/jd.qxrewrite"
+            "config":"1 0 * * * https://cdn.jsdelivr.net/gh/Sunert/Scripts@master/Task/jddj.js, tag=京东到家, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/jddj.png,enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/jddj.qxrewrite"
         },
         {
-            "config":"1 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jddj.png,enabled=true",
-            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/jddj.qxrewrite"
+            "config":"1 0 * * *  https://cdn.jsdelivr.net/gh/chavyleung/scripts@master/meituan/meituan.js, tag=美团, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/meituan.png, enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/meituan.qxrewrite"
         },
         {
-            "config":"1 0 * * *  https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js, tag=美团, img-url=https://raw.githubusercontent.com/Orz-3/task/master/meituan.png, enabled=true",
-            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/meituan.qxrewrite"
+            "config":"5 0 * * * https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/smzdm/smzdm_signin.js, tag=什么值得买每日签到, img-url=https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/smzdm/smzdm.png, enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/smzdm/smzdm_signin.qxrewrite"
         },
         {
-            "config":"5 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.js, tag=什么值得买每日签到, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm.png, enabled=true",
-            "addons":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.qxrewrite"
+            "config":"20 0 * * * https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/smzdm/smzdm_mission.js, tag=什么值得买每日任务, img-url=https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/smzdm/smzdm.png, enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/smzdm/smzdm_signin.qxrewrite"
         },
         {
-            "config":"20 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_mission.js, tag=什么值得买每日任务, img-url=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm.png, enabled=true",
-            "addons":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.qxrewrite"
+            "config":"0 7 * * * https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/xmSports.js, tag=小米运动, img-url=https://cdn.jsdelivr.net/gh/58xinian/icon@master/xmyd.png, enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/xmsports.qxrewrite"
         },
         {
-            "config":"0 7 * * * https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true",
-            "addons":"https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/xmsports.qxrewrite"
+            "config":"15 0 * * * https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_checkin.js, tag=联通_签到与抽奖, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/10010.png, enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_checkin.qxrewrite"
         },
         {
-            "config":"15 0 * * * https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.js, tag=联通_签到与抽奖, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png, enabled=true",
-            "addons":"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.qxrewrite"
+            "config":"0 9 * * * https://cdn.jsdelivr.net/gh/NobyDa/Script@master/52pojie-DailyBonus/52pojie.js, tag=吾爱签到, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/52pj.pngg, enabled=true",
+            "addons":"https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/52pojie.qxrewrite"
         }
     ],
     "description":"Yusum收集自用。"
