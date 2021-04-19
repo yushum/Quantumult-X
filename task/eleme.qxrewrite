@@ -1,2 +1,2 @@
-^https:\/\/h5\.ele\.me\/restapi\/eus\/v\d\/current_user$ url script-request-header https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemGetCookies.js
+^https:\/\/h5\.ele\.me\/restapi\/eus\/v\d\/current_user$ url script-request-header https://cdn.jsdelivr.net/gh/songyangzz/QuantumultX@master/elem/elemGetCookies.js
 hostname = h5.ele.me
