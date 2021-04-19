@@ -1,2 +1,2 @@
-^https:\/\/i.meituan.com\/evolve\/signin\/signpost\/ url script-request-body https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.cookie.js
+^https:\/\/i.meituan.com\/evolve\/signin\/signpost\/ url script-request-body https://cdn.jsdelivr.net/gh/chavyleung/scripts@master/meituan/meituan.cookie.js
 hostname = i.meituan.com
