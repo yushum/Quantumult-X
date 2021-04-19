@@ -42,7 +42,7 @@
 			"addons": "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_checkin.qxrewrite"
 		},
 		{
-			"config": "0 9 * * * https://cdn.jsdelivr.net/gh/NobyDa/Script@master/52pojie-DailyBonus/52pojie.js, tag=吾爱签到, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/52pj.pngg, enabled=true",
+			"config": "0 9 * * * https://cdn.jsdelivr.net/gh/NobyDa/Script@master/52pojie-DailyBonus/52pojie.js, tag=吾爱签到, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/52pj.png, enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/52pojie.qxrewrite"
 		}
 	],
