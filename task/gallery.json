@@ -38,8 +38,8 @@
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/xmsports.qxrewrite"
 		},
 		{
-			"config": "15 0 * * * https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_checkin.js, tag=联通_签到与抽奖, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/10010.png, enabled=true",
-			"addons": "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_checkin.qxrewrite"
+			"config": "15 0 * * * https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_signin.js, tag=联通_签到与抽奖, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/10010.png, enabled=true",
+			"addons": "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_signin.qxrewrite"
 		},
 		{
 			"config": "0 9 * * * https://cdn.jsdelivr.net/gh/NobyDa/Script@master/52pojie-DailyBonus/52pojie.js, tag=吾爱签到, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/52pj.png, enabled=true",
