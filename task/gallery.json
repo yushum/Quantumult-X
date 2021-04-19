@@ -2,27 +2,27 @@
 	"name": "Yusum's Task Gallery",
 	"task": [
 		{
-			"config": "0 9 * * * https://cdn.jsdelivr.net/gh/NobyDa/Script@master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺会员签到, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/iQIYI.png, enabled=true",
+			"config": "0 9 * * * https://cdn.jsdelivr.net/gh/NobyDa/Script@master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺会员签到, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/iQIYI.png, enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/iqiyi.qxrewrite"
 		},
 		{
-			"config": "0 1,20 * * * https://cdn.jsdelivr.net/gh/zZPiglet/Task@master/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/didichuxing/didi.png, enabled=true",
+			"config": "0 1,20 * * * https://cdn.jsdelivr.net/gh/zZPiglet/mini@master/Color/DiDi/DiDi_new.js, tag=滴滴出行, img-url=https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/didichuxing/didi.png, enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/didi.qxrewrite"
 		},
 		{
-			"config": "1 0 * * * https://cdn.jsdelivr.net/gh/zZPiglet/Task@master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/elem.png,enabled=true",
+			"config": "1 0 * * * https://cdn.jsdelivr.net/gh/zZPiglet/mini@master/Color/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/elem.png,enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/eleme.qxrewrite"
 		},
 		{
-			"config": "50 23 * * * https://cdn.jsdelivr.net/gh/zZPiglet/Task@master/elem/elemPea.js, tag=饿了么-遗忘的吃货豆, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/elem.png,enabled=true",
+			"config": "50 23 * * * https://cdn.jsdelivr.net/gh/zZPiglet/mini@master/Color/elem/elemPea.js, tag=饿了么-遗忘的吃货豆, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/elem.png,enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/eleme.qxrewrite"
 		},
 		{
-			"config": "1 0 * * * https://cdn.jsdelivr.net/gh/Sunert/Scripts@master/Task/jddj.js, tag=京东到家, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/jddj.png,enabled=true",
+			"config": "1 0 * * * https://cdn.jsdelivr.net/gh/Sunert/Scripts@master/Task/jddj.js, tag=京东到家, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/jddj.png,enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/jddj.qxrewrite"
 		},
 		{
-			"config": "1 0 * * *  https://cdn.jsdelivr.net/gh/chavyleung/scripts@master/meituan/meituan.js, tag=美团, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/meituan.png, enabled=true",
+			"config": "1 0 * * *  https://cdn.jsdelivr.net/gh/chavyleung/scripts@master/meituan/meituan.js, tag=美团, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/meituan.png, enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/meituan.qxrewrite"
 		},
 		{
@@ -38,7 +38,7 @@
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/xmsports.qxrewrite"
 		},
 		{
-			"config": "15 0 * * * https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_checkin.js, tag=联通_签到与抽奖, img-url=https://cdn.jsdelivr.net/gh/Orz-3/task@master/10010.png, enabled=true",
+			"config": "15 0 * * * https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_checkin.js, tag=联通_签到与抽奖, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/10010.png, enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_checkin.qxrewrite"
 		},
 		{
