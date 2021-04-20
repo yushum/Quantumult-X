@@ -18,7 +18,7 @@
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/eleme.qxrewrite"
 		},
 		{
-			"config": "1 0 * * * https://cdn.jsdelivr.net/gh/Sunert/Scripts@master/Task/jddj.js, tag=京东到家, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/jddj.png,enabled=true",
+			"config": "1 0 * * * https://cdn.jsdelivr.net/gh/chavyleung/scripts@master/jddj/jddj.js, tag=京东到家, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/jddj.png,enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/jddj.qxrewrite"
 		},
 		{
