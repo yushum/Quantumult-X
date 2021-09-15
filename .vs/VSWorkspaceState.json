@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\rewrite",
+    "\\task"
   ],
-  "SelectedNode": "\\C:\\Users\\Yusum\\Source\\Repos\\Quantumult-X",
+  "SelectedNode": "\\task\\iqiyi.qxrewrite",
   "PreviewInSolutionExplorer": false
 }

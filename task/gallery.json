@@ -19,7 +19,7 @@
 		},
 		{
 			"config": "20 0 * * * https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/smzdm/smzdm_mission.js, tag=什么值得买每日任务, img-url=https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/smzdm/smzdm.png, enabled=true",
-			"addons": "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/smzdm/smzdm_signin.qxrewrite"
+			"addons": "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/smzdm/smzdm_mission.qxrewrite"
 		},
 		{
 			"config": "20 0 * * * https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_signin.js, tag=联通_签到与抽奖, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/10010.png, enabled=true",
