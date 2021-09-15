@@ -1,2 +1,0 @@
-hostname = account.huami.com
-^https:\/\/account\.huami\.com\/v2\/client\/login url script-response-body https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/xmSports.js
