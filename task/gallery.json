@@ -24,6 +24,10 @@
 		{
 			"config": "20 0 * * * https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_signin.js, tag=联通_签到与抽奖, img-url=https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/10010.png, enabled=true",
 			"addons": "https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/script/10010/unicom_signin.qxrewrite"
+		},
+		{
+			"config": "5 0 * * * https://cdn.jsdelivr.net/gh/evilbutcher/Quantumult_X@master/check_in/hzh/hzh.js, tag=华住会, img-url=https://cdn.jsdelivr.net/gh/evilbutcher/Quantumult_X@master/picture/hzh.png, enabled=true",
+			"addons": "https://cdn.jsdelivr.net/gh/yushum/Quantumult-X@master/task/hzh.qxrewrite"
 		}
 	],
 	"description": "Yusum收集自用。"
