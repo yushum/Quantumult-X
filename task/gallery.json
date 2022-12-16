@@ -6,7 +6,7 @@
 			"addons": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_daily.qxrewrite"
 		},
 		{
-			"config": "5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hzh/hzh.js, tag=华住会, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/hzh.png, enabled=true",
+			"config": "5 0 * * * https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/hzh.js, tag=华住会, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/hzh.png, enabled=true",
 			"addons": "https://raw.githubusercontent.com/yushum/Quantumult-X/master/task/hzh.qxrewrite"
 		},
 		{
