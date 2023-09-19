@@ -1,0 +1,5 @@
+^https?:\/\/(ditu|maps).google\.cn url 302 https://maps.google.com
+^https?:\/\/(www.)?(g|google)\.cn url 302 https://www.google.com
+^https?:\/\/(ditu|maps).google\.fr url 302 https://maps.google.com
+^https?:\/\/(www.)?(g|google)\.fr url 302 https://www.google.com
+hostname = ditu.google.cn,map.google.cn,g.cn,google.cn,www.g.cn,www.google.cn,ditu.google.fr,map.google.fr,g.fr,google.fr,www.g.fr,www.google.fr
